@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Communere.iOS", "Communere.iOS\Communere.iOS.csproj", "{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Release|iPhone.ActiveCfg = Release|iPhone
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Release|iPhone.Build.0 = Release|iPhone
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{36B73CC1-EBD3-414F-9D12-A1CA33FE1679}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
