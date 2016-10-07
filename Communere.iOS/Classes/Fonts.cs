@@ -1,6 +1,10 @@
 ﻿using System;
 namespace Communere.iOS.Classes
 {
+
+    /// <summary>
+    /// Fonts name.
+    /// </summary>
     public static class FontsName
     {
         public static string RegularEn => "CenturyGothic";
